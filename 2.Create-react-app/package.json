@@ -4,6 +4,8 @@
   "description": "1st react app",
   "source": "App.js",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
